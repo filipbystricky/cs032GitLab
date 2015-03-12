@@ -1,1 +1,7 @@
-line 0 line2
+<<<<<<< HEAD
+line0
+line2
+=======
+line one
+line 2
+>>>>>>> ad53cd2353480992f30cc3a8d70b02775f5015f1
